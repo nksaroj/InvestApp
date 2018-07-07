@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/colorPrimary" />
+
+    <item
+        android:width="@dimen/splash_icon"
+        android:height="@dimen/splash_icon"
+        android:drawable="@drawable/ic_invest_logo"
+        android:gravity="center" />
+
+</layer-list>
